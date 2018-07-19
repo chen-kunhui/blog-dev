@@ -1,0 +1,4 @@
+- git clone ...
+- cd ..
+- npm install
+- hexo s [--draft]
