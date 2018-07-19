@@ -1,29 +1,27 @@
 ---
-title: elasticsearch 笔记
+title: elasticsearch 安装与启动
+tags: elasticsearch Base
 date: 2018-07-18 22:55:27
-tags:
+categories:
 ---
+
 
 # 概述
 
-待完成
+Elasticsearch 是一个分布式、可扩展、实时的搜索与数据分析引擎，同时它也是 ELK 日志系统的一部分。
 
 # 安装前准备
 
-## 安装 JDK & 配置 Java home
+## 安装 JDK & 配置 JAVA_HOME 
 
 1. 到[Oracle](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)下载 JDK
+```bash
+wget --no-check-certificate --no-cookies --header "Cookie: oraclelicense=accept-securebackup-cookie" http://download.oracle.com/otn-pub/java/jdk/8u181-b13/96a7b8442fe848ef90c96a2fad6ed6d1/jdk-8u181-linux-x64.tar.gz
 ```
-wget --no-check-certificate --no-cookies --header "Cookie: oraclelicense=accept-securebackup-cookie" h
-ttp://download.oracle.com/otn-pub/java/jdk/8u181-b13/96a7b8442fe848ef90c96a2fad6ed6d1/jdk-8u181-linux-x64.tar.gz
---2018-07-19 00:20:08--  http://download.oracle.com/otn-pub/java/jdk/8u181-b13/96a7b8442fe848ef90c96a2fad6ed6d1/jdk-8u181-linux-x64.tar.gz
-```
-参数说明：
-```
-–no-check-certificate #不检查证书
---no-cookies          #不使用 cookies.
---header String       #设置请求头，模拟一个cookie
-```
+- 参数说明：
+  - –no-check-certificate #不检查证书
+  - --no-cookies          #不使用 cookies.
+  - --header String       #设置请求头，模拟一个cookie
 
 2. 解压 JDK 源码包到`/usr/local/java`路径下
 ```
@@ -48,7 +46,7 @@ source /etc/profile
 java -version
 ```
 
-# 安装
+# 安装 & 运行
 
 1. [下载源码包](https://www.elastic.co/downloads/elasticsearch)
 ```
@@ -70,23 +68,26 @@ bin/elasticsearch
 ```
 curl http://localhost:9200/
 ```
-得到以下输出，表示启动成功：
-```json
-{
-  "name" : "zmv4Idf",
-  "cluster_name" : "elasticsearch",
-  "cluster_uuid" : "oGYeMyYbTsKKIhms0yh8Pw",
-  "version" : {
-    "number" : "6.3.1",
-    "build_flavor" : "default",
-    "build_type" : "tar",
-    "build_hash" : "eb782d0",
-    "build_date" : "2018-06-29T21:59:26.107521Z",
-    "build_snapshot" : false,
-    "lucene_version" : "7.3.1",
-    "minimum_wire_compatibility_version" : "5.6.0",
-    "minimum_index_compatibility_version" : "5.0.0"
-  },
-  "tagline" : "You Know, for Search"
-}
-```
+- 得到以下输出，表示启动成功：
+
+    {
+    "name" : "zmv4Idf",
+    "cluster_name" : "elasticsearch",
+    "cluster_uuid" : "oGYeMyYbTsKKIhms0yh8Pw",
+    "version" : {
+      "number" : "6.3.1",
+      "build_flavor" : "default",
+      "build_type" : "tar",
+      "build_hash" : "eb782d0",
+      "build_date" : "2018-06-29T21:59:26.107521Z",
+      "build_snapshot" : false,
+      "lucene_version" : "7.3.1",
+      "minimum_wire_compatibility_version" : "5.6.0",
+      "minimum_index_compatibility_version" : "5.0.0"
+    },
+    "tagline" : "You Know, for Search"
+    }
+
+# 扩展阅读
+
+- [elastic 文档](https://www.elastic.co/guide/cn/index.html)
