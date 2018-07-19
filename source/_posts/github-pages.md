@@ -1,7 +1,7 @@
 ---
 title: GitHub Pages 搭建个人博客
 date: 2018-07-17 21:38:45
-tags:
+tags: Blog Base
 ---
 
 # 概述
