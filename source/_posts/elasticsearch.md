@@ -1,8 +1,9 @@
 ---
 title: elasticsearch 安装与启动
-tags: elasticsearch Base
+tags:
+  - elasticsearch
+  - Base
 date: 2018-07-18 22:55:27
-categories:
 ---
 
 
@@ -90,4 +91,5 @@ curl http://localhost:9200/
 
 # 扩展阅读
 
-- [elastic 文档](https://www.elastic.co/guide/cn/index.html)
+- [elasticsearch 文档](https://www.elastic.co/guide/cn/index.html)
+- [elasticsearch 参考](https://es.xiaoleilu.com/010_Intro/00_README.html)
