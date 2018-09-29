@@ -5,6 +5,7 @@ tags:
   - ruby
   - rails
 categories:
+  - rails
 ---
 
 >参考 https://github.com/plataformatec/devise
