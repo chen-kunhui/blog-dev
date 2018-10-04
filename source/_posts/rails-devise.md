@@ -1,5 +1,5 @@
 ---
-title: Devise
+title: ruby Devise 登陆验证框架
 date: 2018-08-05 13:54:34
 tags:
   - ruby

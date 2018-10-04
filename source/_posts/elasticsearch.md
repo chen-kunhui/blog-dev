@@ -31,9 +31,9 @@ sudo tar -zxvf jdk-8u181-linux-x64.tar.gz -C /usr/local/java
 
 3. 在 `/etc/profile` 文件末尾加上：
 ```
-export JAVA_HOME=/usr/local/java/jdk1.8.0_181 
-export JRE_HOME=${JAVA_HOME}/jre  
-export CLASSPATH=.:${JAVA_HOME}/lib:${JRE_HOME}/lib  
+export JAVA_HOME=/usr/local/java/jdk1.8.0_181
+export JRE_HOME=${JAVA_HOME}/jre
+export CLASSPATH=.:${JAVA_HOME}/lib:${JRE_HOME}/lib
 export PATH=${JAVA_HOME}/bin:$PATH
 ```
 4. 运行以下命令，是修改后的文件生效
