@@ -2,8 +2,10 @@
 title: website-collect
 date: 2018-08-23 07:24:22
 tags:
+  - 其他
 categories:
 ---
+
 
 # python
 
@@ -20,3 +22,12 @@ categories:
 - [ruby rails API文档](http://doc.rubyfans.com/)
 - [rails 中文教程](https://ruby-china.github.io/rails-guides/)
 - [ruby gem 源](https://rubygems.org/)
+
+# docker
+
+- [docker 中文社区](http://www.docker.org.cn/)
+
+# git
+
+- [github](https://github.com/)
+- [gitlab](https://about.gitlab.com/pricing/#gitlab-com)
