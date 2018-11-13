@@ -21,7 +21,9 @@ categories:
 - [ruby china](https://ruby-china.org/wiki/ruby-mirror)
 - [ruby rails API文档](http://doc.rubyfans.com/)
 - [rails 中文教程](https://ruby-china.github.io/rails-guides/)
+- [rails guides](https://guides.rubyonrails.org/v5.0/)
 - [ruby gem 源](https://rubygems.org/)
+- [用 OptionParser 构建 Command Line 工具](https://ruby-china.org/wiki/building-a-command-line-tool-with-optionparser)
 
 # docker
 
@@ -31,3 +33,22 @@ categories:
 
 - [github](https://github.com/)
 - [gitlab](https://about.gitlab.com/pricing/#gitlab-com)
+
+# k8s
+
+- [kubernetes](https://kubernetes.io/
+
+#  搜索
+
+- [shodan](https://www.shodan.io/)
+
+# debian
+
+- [debian](https://www.debian.org/doc/manuals/maint-guide/index.zh-cn.htmlhttps://www.debian.org/doc/manuals/maint-guide/index.zh-cn.html)
+
+# go
+
+- [beego 官方文档](https://beego.me/docs/mvc/model/overview.md)
+- [go 中文社区](https://studygolang.com/)
+- [go API 文档](http://docscn.studygolang.com/)
+
