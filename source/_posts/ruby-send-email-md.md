@@ -52,6 +52,38 @@ end
 mail.deliver!
 ```
 
+# 通过单独使用 rails 的 action mailer 组件的方式
+
+```ruby
+require 'action_mailer'
+
+ActionMailer::Base.smtp_settings = {
+  address:        'smtp.163.com',        # default: localhost
+  port:           '25',                  # default: 25
+  user_name:      'chen_kunhui',
+  password:       '***',
+  authentication: :plain                 # :plain, :login or :cram_md5
+}
+
+class Notifier < ActionMailer::Base
+  default from: 'chen_kunhui@163.com'
+
+  def welcome_email(recipient, email_body)
+    mail(to: recipient,
+         body: email_body,
+         content_type: "text/html",
+         subject: "Already rendered!")
+  end
+end
+
+msg = Notifier.welcome_email('c.k.h@foxmail.com', "<h1> hello!</h1>")
+msg.deliver_now
+```
+
 > http://www.runoob.com/ruby/ruby-sending-email.html
 
 > https://github.com/mikel/mail/
+
+> https://github.com/rails/rails/tree/v5.2.1.1/actionmailer
+
+> https://ruby-china.github.io/rails-guides/action_mailer_basics.html
