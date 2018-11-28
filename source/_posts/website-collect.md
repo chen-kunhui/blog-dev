@@ -52,3 +52,7 @@ categories:
 - [go 中文社区](https://studygolang.com/)
 - [go API 文档](http://docscn.studygolang.com/)
 
+# elasctic
+
+- [elasctic 中文文档](https://www.elastic.co/guide/cn/index.html?baymax=rtp&elektra=home&storm=sub1)
+

@@ -1,5 +1,5 @@
 ---
-title: puthon 笔记
+title: python 笔记
 draft: true
 date: 2018-08-23 22:49:01
 tags:
