@@ -55,4 +55,13 @@ categories:
 # elasctic
 
 - [elasctic 中文文档](https://www.elastic.co/guide/cn/index.html?baymax=rtp&elektra=home&storm=sub1)
+- [es gitbook](https://fuxiaopang.gitbooks.io/learnelasticsearch/)
+
+# logstash
+
+- [logstash doc](https://www.elastic.co/guide/en/logstash/current/index.html)
+
+# 前端
+
+- [AdminDesigns](http://admindesigns.com/demos/admin/theme/dashboard.html)
 

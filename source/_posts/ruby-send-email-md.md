@@ -47,6 +47,7 @@ mail = Mail.new do
   from 'chen_kunhui@163.com'
   to 'c.k.h@foxmail.com'
   subject 'test'
+  content_type 'text/html'
   body "<h1>hahaha</h1>"
 end
 mail.deliver!
