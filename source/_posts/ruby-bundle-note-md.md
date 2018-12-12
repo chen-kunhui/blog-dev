@@ -41,7 +41,10 @@ Bundler.require(:default)
 
 ```
 
-> 这时直接使用依赖的 gem 就可以了，不需在使用前 require 了，`Bundler.require(:default)` 已经将全部的 gem 引入了
+> 这时直接使用依赖的 gem 就可以了，不需在使用前 require 了，`Bundler.require(:default)` 已经将 gem 引入了
+> `Bundler.require(:default)`引入的是没有在group中的gem
+> `Bundler.require(:test)` 表示仅引入名为test group中的gem
+> `Bundler.require(:default,:test)` 表示引入没有group中的gem和test group中的gem
 
 # 其他
 
