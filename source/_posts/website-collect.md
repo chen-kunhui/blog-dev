@@ -6,7 +6,6 @@ tags:
 categories:
 ---
 
-
 # python
 
 - [python 官网](https://www.python.org/)
@@ -24,11 +23,18 @@ categories:
 - [rails guides](https://guides.rubyonrails.org/v5.0/)
 - [ruby gem 源](https://rubygems.org/)
 - [用 OptionParser 构建 Command Line 工具](https://ruby-china.org/wiki/building-a-command-line-tool-with-optionparser)
+- [Rack 及其应用上](https://ruby-china.org/topics/31592)
+- [Rack 及其应用下](https://ruby-china.org/topics/33055)
+
+## sidekiq
+
+- [参考博客](https://wdxtub.com/2016/07/06/sidekiq-guide/)
 
 # docker
 
 - [docker 中文社区](http://www.docker.org.cn/)
-
+- [docker 官方镜像库](https://hub.docker.com/)
+- [安装包](https://download.docker.com/linux/ubuntu/dists/)
 # git
 
 - [github](https://github.com/)
@@ -36,9 +42,9 @@ categories:
 
 # k8s
 
-- [kubernetes](https://kubernetes.io/
+- [kubernetes](https://kubernetes.io/)
 
-#  搜索
+# 搜索
 
 - [shodan](https://www.shodan.io/)
 
@@ -64,4 +70,16 @@ categories:
 # 前端
 
 - [AdminDesigns](http://admindesigns.com/demos/admin/theme/dashboard.html)
+- [Vue](https://cn.vuejs.org/v2/guide/)
+- [iview](https://www.iviewui.com/docs/guide/install)
+- [bootstrap](http://www.bootcss.com/)
+- [前端文档集合](https://docschina.org/#vue-pc)
+- [图标 fontawesome](http://www.fontawesome.com.cn/)
 
+# Spring
+
+- [Spring Cloud](https://springcloud.cc/spring-cloud-dalston.html)
+
+# Lua
+
+- [Lua 快速入门](http://huiming.io/2011/05/01/lua-quick-start.html)
