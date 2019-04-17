@@ -2,9 +2,8 @@
 title: rails.5.2 之 master.key 文件
 date: 2018-08-18 22:28:22
 tags:
-  - rails
 categories:
-  - rails
+  - ruby
 ---
 
 > 引用自 https://ruby-china.org/topics/36081

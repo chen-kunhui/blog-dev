@@ -11,3 +11,5 @@ tags:
 # ~/.profile
 
 # ~/.bashrc
+
+source [ path ]

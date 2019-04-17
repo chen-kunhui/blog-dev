@@ -2,7 +2,7 @@
 title: mac 安装 chrome
 date: 2018-07-21 11:34:22
 tags:
-  - iso
+  - mac
 ---
 
 # 将允许安装来源设置为`任何来源`

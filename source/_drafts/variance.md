@@ -4,7 +4,7 @@ date: 2018-08-22 22:16:55
 mathjax: true
 tags:
 categories:
-  - math
+  - algorithmic
 ---
 
 # 概念

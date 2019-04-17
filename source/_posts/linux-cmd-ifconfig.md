@@ -1,8 +1,6 @@
 ---
 title: ifconfig
 date: 2018-08-11 10:30:42
-tags:
-  - linux
 categories:
   - linux
 ---

@@ -1,9 +1,11 @@
 ---
 title: elasticsearch 安装与启动
+date: 2018-07-18 22:55:27
 tags:
   - elasticsearch
   - Base
-date: 2018-07-18 22:55:27
+categories:
+  - db
 ---
 
 

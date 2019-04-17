@@ -3,6 +3,7 @@ title: 不依赖框架情况下使用 ORM
 date: 2018-11-23 20:52:53
 tags:
 categories:
+  - ruby
 ---
 
 # ActiveRecord

@@ -2,10 +2,8 @@
 title: ruby 简单发邮件脚本
 date: 2018-11-28 21:09:41
 tags:
- - ruby
- - email
 categories:
- - ruby
+  - ruby
 ---
 
 # 通过 'net/smtp' 标准库发送email

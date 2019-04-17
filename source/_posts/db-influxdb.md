@@ -4,7 +4,7 @@ date: 2018-10-17 18:57:15
 tags:
   - influxdb
 categories:
-  - influxdb
+  - db
 ---
 
 # influxdb

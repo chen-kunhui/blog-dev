@@ -2,11 +2,8 @@
 title: sidekiq 简单使用
 date: 2018-12-22 14:14:13
 tags:
-  - ruby
-  - rails
-  - sidekiq
 categories:
-  - rails
+  - ruby
 ---
 
 # 安装

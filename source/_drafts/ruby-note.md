@@ -6,12 +6,14 @@ tags:
 draft: true
 date: 2018-08-23 22:49:01
 categories:
+  -ruby
 ---
 
 
-- [ruby 文档检索](https://rubydocs.org/)
-- [ruby rails API文档](http://doc.rubyfans.com/)
-- [rails 中文教程](https://ruby-china.github.io/rails-guides/)
+
+
+require 'test/unit'
+表示测试的类必须是Test::Unit::TestCase的子类，含有断言的方法名必须以test开头。主要是因为Test::Unit使用反射来查找需要运行的测试。只有test开头才符合条件
 
 # 动态获取对象的方法和属性等
 

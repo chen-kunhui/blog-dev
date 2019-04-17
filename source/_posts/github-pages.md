@@ -4,6 +4,8 @@ date: 2018-07-17 21:38:45
 tags:
   - Blog
   - Base
+categories:
+  - other
 ---
 
 # 概述

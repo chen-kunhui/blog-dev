@@ -1,9 +1,9 @@
 ---
-title: website-collect
+title: 网站集
 date: 2018-08-23 07:24:22
 tags:
-  - 其他
 categories:
+  - other
 ---
 
 # python
@@ -25,6 +25,7 @@ categories:
 - [用 OptionParser 构建 Command Line 工具](https://ruby-china.org/wiki/building-a-command-line-tool-with-optionparser)
 - [Rack 及其应用上](https://ruby-china.org/topics/31592)
 - [Rack 及其应用下](https://ruby-china.org/topics/33055)
+- [Ruby unit test](https://blog.csdn.net/ttyue_123/article/details/80328177)
 
 ## sidekiq
 

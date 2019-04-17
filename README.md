@@ -40,3 +40,6 @@ hexo publish [layout] <filename>
 # 比如发布 _drafts文件夹下的 abc.md 文件
 hexo publish post abc
 ```
+
+# hexo 文档
+> https://hexo.io/zh-cn/docs/

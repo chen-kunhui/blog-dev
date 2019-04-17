@@ -4,7 +4,7 @@ date: 2018-11-13 20:37:25
 tags:
   - sql
 categories:
-  - sql
+  - db
 ---
 
 ## 简介

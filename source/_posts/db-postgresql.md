@@ -2,8 +2,9 @@
 title: postgresql
 date: 2018-08-11 15:11:27
 tags:
-  - DB
+  - psql
 categories:
+  - db
 ---
 
 > 参考 https://www.cnblogs.com/z-sm/archive/2016/07/05/5644165.html

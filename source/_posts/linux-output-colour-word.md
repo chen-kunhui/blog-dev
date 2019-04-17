@@ -1,5 +1,5 @@
 ---
-title: shell-note
+title: linux 中输出带有颜色字体
 date: 2018-10-11 21:45:33
 tags:
   - shell

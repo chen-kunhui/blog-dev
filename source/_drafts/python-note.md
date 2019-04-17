@@ -6,6 +6,7 @@ tags:
   - python
   - help
 categories:
+  - python
 ---
 
 # 动态获取对象的方法和属性等
