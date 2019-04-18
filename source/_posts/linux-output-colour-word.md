@@ -6,6 +6,7 @@ tags:
   - linux
 categories:
   - linux
+  - shell
 ---
 
 # linux 中输出带有颜色字体

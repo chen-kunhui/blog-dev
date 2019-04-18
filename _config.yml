@@ -76,8 +76,9 @@ pagination_dir: page
 theme: next
 
 # MathJax Support
-mathjax:
-  enable: true
+math:
+  mathjax:
+    enable: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

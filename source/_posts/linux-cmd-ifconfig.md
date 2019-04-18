@@ -3,6 +3,7 @@ title: ifconfig
 date: 2018-08-11 10:30:42
 categories:
   - linux
+  - cmd
 ---
 
 ifconfig命令被用于配置和显示Linux内核中网络接口的网络参数

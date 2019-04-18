@@ -93,12 +93,13 @@ index_with_subtitle: false
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, question icon will be loaded.
 menu:
   home: / || home
-  #about: /about/ || user
-  tags: /tags/ || tags
+  # archives: /archives/ || archive
   categories: /categories/ || th
-  archives: /archives/ || archive
-  #schedule: /schedule/ || calendar
-  #sitemap: /sitemap.xml || sitemap
+  tags: /tags/ || tags
+  web-site: /websites/ || edge
+  # about: /about/ || user
+  # schedule: /schedule/ || calendar
+  # sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
 
 # Enable/Disable menu icons.
@@ -111,10 +112,10 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-#scheme: Muse
-#scheme: Mist
-#scheme: Pisces
-scheme: Gemini
+# scheme: Muse
+scheme: Mist
+# scheme: Pisces
+# scheme: Gemini
 
 
 # ---------------------------------------------------------------
@@ -169,13 +170,13 @@ toc:
 # Creative Commons 4.0 International License.
 # http://creativecommons.org/
 # Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
-#creative_commons: by-nc-sa
+# creative_commons: by-nc-sa
 #creative_commons:
 
 sidebar:
   # Sidebar Position, available value: left | right (only for Pisces | Gemini).
-  #position: left
-  position: right
+  position: left
+  # position: right
 
   # Sidebar Display, available value (only for Muse | Mist):
   #  - post    expand on posts automatically. Default.
@@ -183,7 +184,7 @@ sidebar:
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggle.
   display: post
-  #display: always
+  # display: always
   #display: hide
   #display: remove
 
@@ -191,7 +192,7 @@ sidebar:
   offset: 12
 
   # Back to top in sidebar (only for Pisces | Gemini).
-  b2t: true
+  b2t: false
 
   # Scroll percent label in b2t button.
   scrollpercent: true
@@ -221,9 +222,9 @@ auto_excerpt:
 
 # Post meta display settings
 post_meta:
-  item_text: true
+  item_text: false
   created_at: true
-  updated_at: false
+  updated_at: true
   categories: true
 
 # Post wordcount display settings
@@ -604,7 +605,7 @@ algolia_search:
 # Local search
 # Dependencies: https://github.com/flashlab/hexo-generator-search
 local_search:
-  enable: false
+  enable: true
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
@@ -654,7 +655,7 @@ tabs:
 
 # Use velocity to animate everything.
 motion:
-  enable: true
+  enable: false
   async: false
   transition:
     # Transition variants:

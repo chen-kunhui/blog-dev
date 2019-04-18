@@ -2,7 +2,9 @@
 title: linux 命令之 top
 date: 2019-04-11 19:00:00
 tags:
-categories: linux
+categories:
+  - linux
+  - cmd
 ---
 
 # top 简介

@@ -1,10 +1,8 @@
 ---
-title: 网站集
-date: 2018-08-23 07:24:22
-tags:
-categories:
-  - other
+title: websites
+date: 2019-04-18 21:18:03
 ---
+
 
 # python
 
