@@ -3,15 +3,6 @@ title: websites
 date: 2019-04-18 21:18:03
 ---
 
-
-# python
-
-- [python 官网](https://www.python.org/)
-- [python 官方文档](https://docs.python.org/3/)
-- [numpy 文档](https://docs.scipy.org/doc/numpy/genindex.html)
-- [anaconda 下载](https://www.anaconda.com/download/)
-- [tensorflow 中文社区](http://www.tensorfly.cn/)
-
 # Ruby
 
 - [ruby 文档检索](https://rubydocs.org/)
@@ -28,6 +19,14 @@ date: 2019-04-18 21:18:03
 ## sidekiq
 
 - [参考博客](https://wdxtub.com/2016/07/06/sidekiq-guide/)
+
+# python
+
+- [python 官网](https://www.python.org/)
+- [python 官方文档](https://docs.python.org/3/)
+- [numpy 文档](https://docs.scipy.org/doc/numpy/genindex.html)
+- [anaconda 下载](https://www.anaconda.com/download/)
+- [tensorflow 中文社区](http://www.tensorfly.cn/)
 
 # docker
 
@@ -82,3 +81,8 @@ date: 2019-04-18 21:18:03
 # Lua
 
 - [Lua 快速入门](http://huiming.io/2011/05/01/lua-quick-start.html)
+
+# ansible
+
+- [ansible 官方文档](https://docs.ansible.com/ansible/latest/user_guide/intro_getting_started.html)
+- [ansible 中文文档](http://www.ansible.com.cn/)
