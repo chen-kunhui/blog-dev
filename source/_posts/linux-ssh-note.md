@@ -1,11 +1,11 @@
 ---
-title: linux_ssh_note
+title: ssh 笔记
 mathjax: false
 date: 2019-04-29 21:53:54
 tags:
 categories:
   - linux
-  - ssh
+  - cmd
 ---
 
 生成 ssh key
