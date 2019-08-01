@@ -39,4 +39,11 @@ categories:
     end
 
 
+## sushi_config
+
+
+| 配置 | 值 | 说明 |
+| --- | --- | --- |
+|ClientAliveInterval | int | 指定服务器端向客户端请求消息的时间间隔 |
+| ClientAliveCountMax | int | 服务器发出多少次请求后客户端没有响应则自动断开|
 
