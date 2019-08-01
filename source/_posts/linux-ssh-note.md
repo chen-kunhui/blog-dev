@@ -8,6 +8,7 @@ categories:
   - cmd
 ---
 
+# 小记
 生成 ssh key
 
     ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
@@ -39,11 +40,16 @@ categories:
     end
 
 
-## sushi_config
-
+# sshd 配置文件 sshd_config
 
 | 配置 | 值 | 说明 |
 | --- | --- | --- |
-|ClientAliveInterval | int | 指定服务器端向客户端请求消息的时间间隔 |
+| ClientAliveInterval | int | 指定服务器端向客户端请求消息的时间间隔 |
 | ClientAliveCountMax | int | 服务器发出多少次请求后客户端没有响应则自动断开|
+| PermitRootLogin | yes/no | 是否允许root用户远程登录 |
 
+# 查看登陆历史
+
+| 命令 | 作用 |
+| --- | --- |
+| last | 查看近期的历史 |
