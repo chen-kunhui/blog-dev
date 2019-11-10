@@ -16,6 +16,7 @@ date: 2019-04-18 21:18:03
 - [Rack 及其应用下](https://ruby-china.org/topics/33055)
 - [Ruby unit test](https://blog.csdn.net/ttyue_123/article/details/80328177)
 - [ruby 工具库](https://www.ruby-toolbox.com/)
+- [sinatra](http://sinatrarb.com/)
 
 ## sidekiq
 
@@ -28,12 +29,14 @@ date: 2019-04-18 21:18:03
 - [numpy 文档](https://docs.scipy.org/doc/numpy/genindex.html)
 - [anaconda 下载](https://www.anaconda.com/download/)
 - [tensorflow 中文社区](http://www.tensorfly.cn/)
+- [Django](https://docs.djangoproject.com)
 
 # docker
 
 - [docker 中文社区](http://www.docker.org.cn/)
 - [docker 官方镜像库](https://hub.docker.com/)
 - [安装包](https://download.docker.com/linux/ubuntu/dists/)
+
 # git
 
 - [github](https://github.com/)
@@ -74,6 +77,8 @@ date: 2019-04-18 21:18:03
 - [bootstrap](http://www.bootcss.com/)
 - [前端文档集合](https://docschina.org/#vue-pc)
 - [图标 fontawesome](http://www.fontawesome.com.cn/)
+- [datatable 中文网](http://www.datatables.club/)
+- [datatable en](https://datatables.net)
 
 # Spring
 
@@ -81,7 +86,14 @@ date: 2019-04-18 21:18:03
 
 # Lua
 
+- [Lua 官网](https://www.lua.org/)
 - [Lua 快速入门](http://huiming.io/2011/05/01/lua-quick-start.html)
+
+# OpenResty
+
+- [OpenResty 最佳实践](https://moonbingbing.gitbooks.io/openresty-best-practices/content/)
+- [lua ngx api](https://openresty-reference.readthedocs.io/en/latest/)
+- [openrest 文档](http://openresty.org/en/getting-started.html)
 
 # ansible
 
