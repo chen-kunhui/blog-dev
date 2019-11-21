@@ -1,5 +1,5 @@
 ---
-title: docker-kubectl-install
+title: k8s-kubectl-install
 mathjax: false
 date: 2019-11-14 21:30:20
 tags:
@@ -8,6 +8,7 @@ tags:
   - linux
 categories:
   - docker
+  - k8s
 ---
 
 # kubectl 安装
@@ -69,3 +70,7 @@ sudo snap install kubectl --classic
 ```
 brew install kubectl
 ```
+
+# 其他资料
+
+> https://kubernetes.io/docs/tasks/tools/install-kubectl/
