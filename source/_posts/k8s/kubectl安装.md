@@ -1,7 +1,8 @@
 ---
-title: k8s-kubectl-install
+title: kubectl 安装
 mathjax: false
 date: 2019-11-14 21:30:20
+updated: 2019-11-14 21:30:20
 tags:
   - docker
   - k8s

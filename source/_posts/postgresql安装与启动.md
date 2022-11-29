@@ -1,6 +1,7 @@
 ---
 title: postgresql
 date: 2018-08-11 15:11:27
+updated: 2018-08-11 15:11:27
 tags:
   - psql
 categories:

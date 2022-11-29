@@ -1,13 +1,15 @@
 ---
 title: puthon 笔记
+mathjax: false
 tags:
   - ruby
   - help
+categories: '-ruby'
 draft: true
 date: 2018-08-23 22:49:01
-categories:
-  -ruby
+updated: 2018-08-23 22:49:01
 ---
+
 
 
 

@@ -1,7 +1,8 @@
 ---
-title: docker-build-local-docker-hub
+title: 搭建docker镜像库
 mathjax: false
 date: 2019-11-13 23:05:14
+updated: 2019-11-13 23:05:14
 tags:
   - docker
 categories:

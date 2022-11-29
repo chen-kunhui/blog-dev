@@ -1,13 +1,12 @@
 # Hexo Configuration
-## Docs: https://hexo.io/docs/configuration.html
-## Source: https://github.com/hexojs/hexo/
+## Docs: https://hexo.io/zh-cn/docs/configuration.html
 
 # Site
 title: CHEN
 subtitle:
 description:
 keywords:
-author: Chen Kunhui
+author: Mr. C
 language: zh-Hans
 timezone: Asia/Shanghai
 
@@ -15,7 +14,7 @@ timezone: Asia/Shanghai
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: _posts/:title/
 permalink_defaults:
 
 # Directory
@@ -50,11 +49,11 @@ highlight:
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
-  per_page: 10
+  per_page: 50
   order_by: -date
   
 # Category & Tag
-default_category: uncategorized
+default_category: other
 category_map:
 tag_map:
 

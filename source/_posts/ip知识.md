@@ -1,7 +1,9 @@
 ---
 title: ip 知识
 date: 2018-08-23 07:24:22
+updated: 2018-08-23 07:24:22
 tags:
+  - ip
 categories:
   - os
 ---

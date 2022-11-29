@@ -13,10 +13,10 @@ npm install
 启动服务
 ```sh
 # 默认运行在 4000 端口
-hexo s
+npx hexo s
 
 # 启动服务预览草稿文件
-hexo s --draft
+npx  hexo s --draft
 ```
 
 发布
@@ -24,6 +24,11 @@ hexo s --draft
 hexo deploy
 ```
 **注：** 如果发布后没有出现新添加的文章则本地运行`hexo clean`后再发布
+
+```sh
+# 编译
+npx hexo generate
+```
 
 # 其他常用命令
 

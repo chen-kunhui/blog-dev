@@ -1,9 +1,11 @@
 ---
-title: k8s-minikube-use
+title: minikube 安装与使用
 mathjax: false
 date: 2019-11-15 22:13:52
+updated: 2019-11-15 22:13:52
 tags:
 categories:
+ - k8s
 ---
 
 # [安装](https://minikube.sigs.k8s.io/docs/start/linux/)
