@@ -99,3 +99,7 @@ date: 2019-04-18 21:18:03
 
 - [ansible 官方文档](https://docs.ansible.com/ansible/latest/user_guide/intro_getting_started.html)
 - [ansible 中文文档](http://www.ansible.com.cn/)
+
+# 其他
+
+- [键盘练习](https://www.keybr.com/#!practice)
